@@ -1,4 +1,4 @@
-import { StyleSheet, Text, View } from "react-native";
+import { StyleSheet, View } from "react-native";
 import { MasonryFlashList } from "@shopify/flash-list";
 import ImageCard from "./imageCard";
 import { getColumnsCount, widthPercentage } from "../helpers/common";
